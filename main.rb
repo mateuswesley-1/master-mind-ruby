@@ -86,7 +86,7 @@ class MasterMind
     end
   end
 end
-master_mind = MasterMind.new()
+master_mind = MasterMind.new
 master_mind.game
 
 
