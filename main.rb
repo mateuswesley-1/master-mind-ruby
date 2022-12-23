@@ -139,6 +139,7 @@ end
 
 class Player
   attr_accessor :breaker, :name, :computer
+
   def initialize(name, breaker = 1, computer = false)
     @breaker = breaker
     @name = name
